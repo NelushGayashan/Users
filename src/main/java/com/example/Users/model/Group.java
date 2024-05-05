@@ -1,4 +1,4 @@
-package com.example.Users;
+package com.example.Users.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -8,6 +8,9 @@ import lombok.RequiredArgsConstructor;
 import jakarta.persistence.*;
 import java.util.Set;
 
+import com.example.Users.model.Event;
+
+@SuppressWarnings("unused")
 @Data
 @NoArgsConstructor
 @RequiredArgsConstructor
