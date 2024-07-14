@@ -35,7 +35,7 @@ Users/
 │   │       └── data.sql
 ├── target/
 ├── pom.xml
-````bash
+````
 
 ## 3. Installation and Setup
 --------------------------
