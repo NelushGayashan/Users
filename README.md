@@ -16,6 +16,7 @@ This project implements a RESTful API for managing user groups and events using 
 
 ## 2. Project Structure
 ---------------------
+````bash
 Users/
 ├── src/
 │   ├── main/
@@ -34,6 +35,7 @@ Users/
 │   │       └── data.sql
 ├── target/
 ├── pom.xml
+````bash
 
 ## 3. Installation and Setup
 --------------------------
